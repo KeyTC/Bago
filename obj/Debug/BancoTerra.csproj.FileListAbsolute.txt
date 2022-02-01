@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\BancoTerra\bin\Debug\BancoTerra.exe.config
+C:\Users\Usuario\source\repos\BancoTerra\bin\Debug\BancoTerra.exe
+C:\Users\Usuario\source\repos\BancoTerra\bin\Debug\BancoTerra.pdb
+C:\Users\Usuario\source\repos\BancoTerra\obj\Debug\BancoTerra.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\BancoTerra\obj\Debug\BancoTerra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\BancoTerra\obj\Debug\BancoTerra.Inicio.resources
+C:\Users\Usuario\source\repos\BancoTerra\obj\Debug\BancoTerra.Properties.Resources.resources
+C:\Users\Usuario\source\repos\BancoTerra\obj\Debug\BancoTerra.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\BancoTerra\obj\Debug\BancoTerra.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BancoTerra\obj\Debug\BancoTerra.exe
+C:\Users\Usuario\source\repos\BancoTerra\obj\Debug\BancoTerra.pdb
